@@ -1,0 +1,20 @@
+[
+{
+	"region" : "0, 0",
+	"filename" : "blackscholes.c",
+	"executions":
+	[
+		[
+			{
+				"argument":"__nt__ black_in/in_312K.txt out_312K.txt",
+				"runs":[
+					{
+						"threads":1,
+						"time":0.059026
+					}
+				]
+			}
+		]
+	]
+}
+]
